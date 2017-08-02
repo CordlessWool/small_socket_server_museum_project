@@ -1,0 +1,10 @@
+{
+  "name": "museum",
+  "dependencies": {
+    "node-static": "registry:npm/node-static#0.7.7+20160610172441",
+    "websocket": "registry:dt/websocket#0.0.0+20170217141817"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#7.0.0+20170322231424"
+  }
+}

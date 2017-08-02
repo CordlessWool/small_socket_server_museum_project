@@ -1,0 +1,19 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/effervescentia/typed-node-static/29ac1643342e18968ecf1a4ce0bca8c0f9055324/typings.json",
+    "raw": "registry:npm/node-static#0.7.7+20160610172441",
+    "main": "index.d.ts",
+    "version": "0.7.7",
+    "dependencies": {
+      "mime": {
+        "src": "https://raw.githubusercontent.com/typed-typings/npm-mime/c7c5810698b7eaa421702a53644a8963d372f758/typings.json",
+        "raw": "registry:npm/mime#1.3.0+20160423043021",
+        "main": "mime.d.ts",
+        "version": "^1.3.0",
+        "name": "mime"
+      }
+    },
+    "name": "node-static"
+  }
+}
